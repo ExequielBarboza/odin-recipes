@@ -1,0 +1,21 @@
+body {
+    background-color: grey;
+}
+
+h1,p,ul {
+    text-align: center;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(204, 81, 81);
+    text-decoration-line: inherit;
+}
+p {
+    color: rgb(255, 255, 255);
+    text-shadow: 0 2px black;
+    font-size: 20px;
+}
+li {
+    font-weight: bold;
+}
